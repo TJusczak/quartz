@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Second Brain - Quartz 4.0",
+    pageTitle: "Second Brain - Quartz",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
